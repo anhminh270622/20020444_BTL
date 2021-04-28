@@ -33,5 +33,5 @@ Tham khảo tại https://phattrienphanmem123az.com/
 
 -Thay đổi thời gian ngắn hơn so với nguồn
 
--Thêm được âm thanh cho đạn bắn 
+-Thêm âm thanh cho đạn bắn và khi bắn trúng quái vật. 
 
