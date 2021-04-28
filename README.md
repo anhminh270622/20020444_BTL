@@ -1,8 +1,11 @@
 # Tên game : game bắn súng
-Link download : 
+Link download : https://github.com/anhminh270622/20020444_BTL.git
+
 # Hướng dẫn cài đặt: 
 B1: Vào link trên rồi chọn->Dowload ZIP->Giải nén
+
 B2: Vào file vừa giải nén chọn 
+
 • Điều khiển:
 
 -Chuột trái để bắn đạn
