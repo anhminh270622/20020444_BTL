@@ -1,8 +1,8 @@
 # Tên game : game bắn súng
 Link download : 
 # Hướng dẫn cài đặt: 
-B1: Vào link trên rồi chọn tải về m
-
+B1: Vào link trên rồi chọn->Dowload ZIP->Giải nén
+B2: Vào file vừa giải nén chọn 
 • Điều khiển:
 
 -Chuột trái để bắn đạn
@@ -17,7 +17,7 @@ B1: Vào link trên rồi chọn tải về m
 
 -Thời gian của game là 600s
 
--Khi bị rơi xuống hố thì sẽ k mất 1 số lần chơi và nó sẽ hồi sinh lại sau 3s và nó sẽ lùi lại 1 khoảng nhỏ
+-Khi bị rơi xuống hố thì sẽ không mất số lần chơi và nó sẽ hồi sinh lại sau 3s và nó sẽ lùi lại 1 khoảng nhỏ
 
 -Khi chơi nhân vật chính cần tránh các đạn bắn từ con quái và tránh va chạm với các con quái đó để tránh bị mất 1 lần chơi
 
